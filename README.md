@@ -27,13 +27,13 @@ Meu nome é **lili**;
 ![Python](https://img.shields.io/badge/Python-gray?style=for-the-badge&logo=python)
 
 ## ➵ Github Status
-![aninhax11 Stats](https://github-readme-stats.vercel.app/api?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&count_private=true&bg_color=d43e28&title_color=ffff&text_color=ffff)
+![lilixx1 Stats](https://github-readme-stats.vercel.app/api?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&count_private=true&bg_color=d43e28&title_color=ffff&text_color=ffff)
 
-![aninhax11 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&layout=compact&bg_color=d43e28&title_color=ffff&text_color=ffff)
+![lilixx1 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aninhax11&theme=material-palenight&show_icons=true&hide_border=false&layout=compact&bg_color=d43e28&title_color=ffff&text_color=ffff)
 
 ## ➵ Entre em contato comigo
 
-<a href="mailto:ana.campello@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+<a href="waxveil113@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ana__meireles_/)
 
